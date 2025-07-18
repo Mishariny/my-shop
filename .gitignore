@@ -1,0 +1,11 @@
+# Node.js
+node_modules/
+npm-debug.log*
+.env.local
+.next/
+out/
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
